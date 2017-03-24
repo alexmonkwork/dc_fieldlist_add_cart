@@ -4,8 +4,11 @@ Snippet demonstrates changing the order of output fields in the form of adding g
 In drupal commerce.
 
 1.Quantity
+
 2.Stock
+
 3.Price
+
 4.Add cart
 
 #RU
@@ -14,6 +17,9 @@ In drupal commerce.
 в drupal commerce.
 
 1.Количество(quantity)
+
 2.Количество на складе (stock)
+
 3.Цена (price)
+
 4.Купить (add cart)
