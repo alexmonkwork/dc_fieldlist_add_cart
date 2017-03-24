@@ -1,4 +1,5 @@
 #EN
+
 Snippet demonstrates changing the order of output fields in the form of adding goods
 In drupal commerce.
 
